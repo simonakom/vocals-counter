@@ -1,6 +1,5 @@
+# <span><img src="./images/a.png" alt=vowel style="height: 1em; vertical-align: middle;"></span> Vowel Counter App
 
-# Vowel Counter App
-
-This assignment is about creating a vowel counter app with javascript
+It is a responsive vowel counter app created using javascript.
 
 <h4>🔹 Vowel counter app sample - <a href="https://simonakom.github.io/vocals-counter/index.html" style="font-size:small;">View</a><h4>
