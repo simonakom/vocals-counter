@@ -1,4 +1,4 @@
-# <span><img src="./images/a.png" alt=vowel-app style="height: 1em; vertical-align: middle;"></span> Vowel Counter App
+# <span><img src="./images/a.png" alt=vowel-app style="height: 1em;"></span> Vowel Counter App
 
 It is a responsive vowel counter app created using javascript.
 
